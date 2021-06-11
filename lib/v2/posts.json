@@ -17,15 +17,15 @@
           "maxLength": 191
         },
         "label": {
-          "type": "string",
+          "type": ["string", "null"],
           "maxLength": 191
         },
         "taxon": {
-          "type": "string",
+          "type": ["string", "null"],
           "maxLength": 1000
         },
         "usedIn": {
-          "type": "string",
+          "type": ["string", "null"],
           "maxLength": 1000
         },
         "mobiledoc": {
