@@ -16,6 +16,18 @@
           "type": "string",
           "maxLength": 191
         },
+        "label": {
+          "type": "string",
+          "maxLength": 191
+        },
+        "taxon": {
+          "type": "string",
+          "maxLength": 1000
+        },
+        "usedIn": {
+          "type": "string",
+          "maxLength": 1000
+        },
         "mobiledoc": {
           "type": ["string", "null"],
           "format": "json-string",
