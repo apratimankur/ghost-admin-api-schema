@@ -24,7 +24,7 @@
           "type": ["string", "null"],
           "maxLength": 1000
         },
-        "usedIn": {
+        "used_in": {
           "type": ["string", "null"],
           "maxLength": 1000
         },
